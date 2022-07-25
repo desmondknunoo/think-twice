@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThinkTwice</string>
+    <string name="dot">.</string>
+    <string name="copyright">© 2015 DnD Inc. All rights reserved</string>
+
+</resources>
